@@ -3,4 +3,4 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 my text
-use left arrow
+use left arrow carefully
